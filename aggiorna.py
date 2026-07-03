@@ -4,7 +4,7 @@ from urllib.parse import urljoin
 
 # MAPPA DELLE FONTI: Associa ogni titolo della tua lista alla pagina del player video.
 MAPPA_FONTI = {
-    "A Star is Born (2018)": "https://miixdrop.net/f/4dvwznw9cx0kg8",
+    "A Star is Born (2018)": "https://cb01streaming.video/film/enola-holmes-3-1202033",
     "Al bar dello sport (1983)": "INSERISCI_QUI_URL_PLAYER_VIDEO",
     "Avatar: Fuoco e Cenere (2025)": "INSERISCI_QUI_URL_PLAYER_VIDEO",
     "Avvocato Ligas S01 E01": "INSERISCI_QUI_URL_PLAYER_VIDEO",
