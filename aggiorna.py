@@ -3,7 +3,7 @@ from bs4 import BeautifulSoup
 
 # MAPPA DELLE FONTI: Associa ogni titolo della tua lista alla pagina reale del sito streaming.
 MAPPA_FONTI = {
-    "A Star is Born (2018)": "https://cb01uno.quest/a-star-is-born-hd-2018/",
+    "A Star is Born (2018)": "https://streamingcommunityz.pl/it/watch/788",
     "Al bar dello sport (1983)": "INSERISCI_QUI_URL_PAGINA_DEL_FILM",
     "Avatar: Fuoco e Cenere (2025)": "INSERISCI_QUI_URL_PAGINA_DEL_FILM",
     "Avvocato Ligas S01 E01": "INSERISCI_QUI_URL_PAGINA_DEL_FILM",
